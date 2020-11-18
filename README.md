@@ -1,6 +1,6 @@
 # Communication Protocols
 
-## Communication protocols refers to the set of rules that defines how computers communicate with each other.
+ Communication protocols refers to the set of rules that defines how computers communicate with each other.
 
 # Common Types Of Communication Protocols
 - HTTP Hyper Text Transfer Protocol
